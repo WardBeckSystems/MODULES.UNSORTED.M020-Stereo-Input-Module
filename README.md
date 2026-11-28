@@ -1,6 +1,6 @@
 # M020 Stereo Input Module · Input Pre Amps
 
-Ward-Beck Systems M020. Wiki page: [M020 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M020.html)
+Ward-Beck Systems M020. Wiki page: [M020 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M020-Stereo-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
